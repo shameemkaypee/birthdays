@@ -135,7 +135,7 @@ const birthdayData = [
     { name: "Hari Sankar Brahma Tavva", birthday: "03/11" },
     { name: "Thejo R", birthday: "11/07" },
     { name: "Tulsi Gurjar", birthday: "09/09" },
-    { name: "Tupur Mishra", birthday: "05/05" },
+    { name: "Tupur Mishra", birthday: "05/06" },
     { name: "Ujjwala Naudiyal", birthday: "06/03" },
     { name: "Utkarsh Panchal", birthday: "13/09" },
     { name: "Vaishnavi Gupta", birthday: "16/05" },
