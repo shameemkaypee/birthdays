@@ -46,7 +46,7 @@ const birthdayData = [
     { name: "Dhruv Somani", birthday: "11/07" },
     { name: "Dhwani Lal", birthday: "25/09" },
     { name: "Ekamjyot Kaur", birthday: "07/09" },
-    { name: "Garvita Tyagi", birthday: "22/01" },
+    { name: "Garvita Tyagi", birthday: "26/05" },
     { name: "Gauri Chaube", birthday: "22/01" },
     { name: "Gourav Kumar", birthday: "25/10" },
     { name: "Haardikh Gurnani", birthday: "06/01" },
