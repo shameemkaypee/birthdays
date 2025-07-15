@@ -1,4 +1,5 @@
 // Birthday data
+//     { name: "Rudransh Narang", birthday: "16/07" },
 const birthdayData = [
     { name: "Aakash Gupta", birthday: "08/08" },
     { name: "Aarushi Dubey", birthday: "08/01" },
@@ -101,7 +102,6 @@ const birthdayData = [
     { name: "Ridhima Makkar", birthday: "28/08" },
     { name: "Rishabh Garg", birthday: "16/07" },
     { name: "Riya Gandhi", birthday: "03/10" },
-    { name: "Rudransh Narang", birthday: "16/07" },
     { name: "Saguna Rishi", birthday: "07/08" },
     { name: "Sanat Kumar", birthday: "30/03" },
     { name: "Saumya Mathpal", birthday: "02/08" },
