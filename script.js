@@ -2,8 +2,8 @@
 
 const birthdayData = [
     { name: "Aakash Gupta", birthday: "08/08" },
-    { name: "Anonymous", birthday: "16/07" },
-    { name: "Anonymous", birthday: "29/07" },
+    { name: "Anonymous", birthday: "16/07" }, // Rudransh Narang
+    { name: "Anonymous", birthday: "29/07" }, //Abhinav Mitharwal
     { name: "Aarushi Dubey", birthday: "08/01" },
     { name: "Abha Motghare", birthday: "16/02" },
     { name: "Abhisumat Bishnoi", birthday: "30/04" },
@@ -135,7 +135,7 @@ const birthdayData = [
     { name: "Tanmay Gulati", birthday: "30/05" },
     { name: "Hari Sankar Brahma Tavva", birthday: "03/11" },
     { name: "Thejo R", birthday: "11/07" },
-    { name: "Tulsi Gurjar", birthday: "09/09" },
+    { name: "Anonymous", birthday: "09/09" }, //Tulsi Gurjar
     { name: "Tupur Mishra", birthday: "05/06" },
     { name: "Ujjwala Naudiyal", birthday: "06/03" },
     { name: "Utkarsh Panchal", birthday: "13/09" },
