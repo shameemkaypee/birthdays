@@ -38,7 +38,7 @@ const birthdayData = [
     { name: "Debanita Sahoo", birthday: "20/12" },
     { name: "Deepshikha Das", birthday: "13/02" },
     { name: "Deeti Vyas", birthday: "02/11" },
-    { name: "Dev Raushan", birthday: "13/09" },
+    { name: "Dev Raushan", birthday: "13/11" },
     { name: "Devendra Chouhan", birthday: "03/02" },
     { name: "Dhanish Kapoor", birthday: "11/10" },
     { name: "Dhawal Patidar", birthday: "11/10" },
