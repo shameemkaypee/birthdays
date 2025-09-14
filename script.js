@@ -116,7 +116,7 @@ const birthdayData = [
     { name: "Shrishti Golhani", birthday: "04/05" },
     { name: "Snigdha Rajvanshi", birthday: "01/03" },
     { name: "Somil Choudhary", birthday: "11/11" },
-    { name: "Sonu Raj", birthday: "27/09" },
+    { name: "Anonymous", birthday: "27/09" }, //Sonu Raj
     { name: "Jaswanth Sornapudi", birthday: "09/09" },
     { name: "Soumili Chatterjee", birthday: "08/03" },
     { name: "Soumili Halder", birthday: "14/03" },
